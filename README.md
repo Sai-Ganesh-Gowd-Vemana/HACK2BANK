@@ -1,0 +1,1 @@
+our project focuses on building a fraud detection platform with a user-friendly website that addresses phishing, fraud prevention, and user awareness. The solution targets multiple vulnerabilities in the banking system and enhances customer security, emphasizing detection, prevention, and response to fraud
